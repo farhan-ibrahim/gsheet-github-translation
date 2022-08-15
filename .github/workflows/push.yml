@@ -12,8 +12,8 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Check Lint
-        run: yarn run eslint
+      - name: Run ESLint
+        run: eslint . --ext .json
   
   # Make a pull request to develop once complete the test
   make-pull-request-on-staging:
