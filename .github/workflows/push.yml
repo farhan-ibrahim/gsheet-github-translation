@@ -6,14 +6,20 @@ on:
       - 'translation'
 
 jobs:
-  # Perform testing
-  test:
-    name: Testing
+  # Perform eslint
+  eslint-prettify:
+    name: ESlint & Prettify
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v2
       - name: Run ESLint
         run: eslint . --ext .json
+
+      - name: Prettify code
+        uses: creyD/prettier_action@v4.2
+        with:
+          # This part is also where you can pass other options, for example:
+          prettier_options: --write **/*.json
   
   # Make a pull request to develop once complete the test
   make-pull-request-on-staging:
