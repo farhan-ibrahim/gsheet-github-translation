@@ -1,0 +1,32 @@
+name: CI/CD UPDATE TRANSLATION
+
+on:
+  push:
+    branches: 
+      - 'translation'
+
+jobs:
+  # Perform testing
+  test:
+    name: Testing
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Check Lint
+        run: yarn run eslint
+  
+  # Make a pull request to develop once complete the test
+  make-pull-request-on-staging:
+    name: Make Pull Request
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Make a pull request
+        uses: repo-sync/pull-request@v2
+        with:
+          source_branch: "" 
+          pr_title: "Pulling ${{ github.ref }} into staging" 
+          destination_branch: "main" 
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          pr_label: "auto-pr, translation"
+          pr_reviewer: "farhan-ibrahim"
