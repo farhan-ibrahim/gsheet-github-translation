@@ -15,8 +15,7 @@ jobs:
       - name: Run ESLint
         uses: stefanoeb/eslint-action@1.0.2
         with:
-          files:
-            - '**/*.json'
+          files: -'**/*.json'
 
       - name: Prettify code
         uses: creyD/prettier_action@v4.2
