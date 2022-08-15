@@ -9,7 +9,7 @@ jobs:
   # Perform eslint
   eslint-prettify:
     name: ESlint & Prettify
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Run ESLint
