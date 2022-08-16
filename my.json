@@ -1,2 +1,15 @@
-{"product":"Produk","price":"Beli","size":"Saiz","shape":"Bentuk","money":"Duit","car":"Kereta","building":"Bangunan","cat":"","shirt":"Baju","coffee":"Kopi"}
-
+{
+  "keys": "my",
+  "product": "",
+  "price": "Beli",
+  "size": "Saiz",
+  "shape": "Segi Empat",
+  "money": "",
+  "car": "Kereta",
+  "cow": "Lembu",
+  "building": "Bangunan",
+  "cat": "Kucing",
+  "shirt": "Kemeja",
+  "coffee": "Kopi",
+  "": ""
+}
