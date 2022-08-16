@@ -1,1 +1,12 @@
-{"product":"Produk","price":"Beli","size":"Saiz","shape":"Segi Empat","money":"Duit","car":"Kereta","cow":"Lembu","building":"Bangunan","cat":"Kucing","shirt":"Kemeja"}
+{
+  "product": "Produk",
+  "price": "Beli",
+  "size": "Saiz",
+  "shape": "Segi Empat",
+  "money": "Duit",
+  "car": "Kereta",
+  "cow": "Lembu",
+  "building": "Bangunan",
+  "cat": "Kucing",
+  "shirt": "Kemeja"
+}

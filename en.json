@@ -1,1 +1,12 @@
-{"product":"Product","price":"Price","size":"Size","shape":"Shape ","money":"Money","car":"Car","cow":"Cow","building":"Building","cat":"Cat","shirt":"Shirt"}
+{
+  "product": "Product",
+  "price": "Price",
+  "size": "Size",
+  "shape": "Shape ",
+  "money": "Money",
+  "car": "Car",
+  "cow": "Cow",
+  "building": "Building",
+  "cat": "Cat",
+  "shirt": "Shirt"
+}
