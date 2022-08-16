@@ -1,15 +1,1 @@
-{
-  "keys": "en",
-  "product": "Product",
-  "price": "Price",
-  "size": "Size",
-  "shape": "Shape ",
-  "money": "Money",
-  "car": "Car",
-  "cow": "Cow",
-  "building": "Building",
-  "cat": "Cat",
-  "shirt": "Shirt",
-  "coffee": "Coffee",
-  "": ""
-}
+{"product":"Product","price":"Price","size":"Size","shape":"Shape ","money":"Money","car":"Car","cow":"Cow","building":"Building","cat":"Cat","shirt":"Shirt"}
