@@ -1,1 +1,12 @@
-{"money":"Money","size":"Size","shape":"Shape ","car":"Car","coffee":"Coffee","cat":"Cat","cow":"Cow","shirt":"Shirt","house":"House","price":"Hello"}
+{
+  "money": "Money",
+  "size": "Size",
+  "shape": "Shape ",
+  "car": "Car",
+  "coffee": "Coffee",
+  "cat": "Cat",
+  "cow": "Cow",
+  "shirt": "Shirt",
+  "house": "House",
+  "price": "Hello"
+}
