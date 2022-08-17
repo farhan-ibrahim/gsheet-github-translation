@@ -1,12 +1,1 @@
-{
-  "car": "Kereta",
-  "shape": "Bentuk",
-  "money": "Duit",
-  "shirt": "Baju",
-  "cow": "Lembu",
-  "price": "Harga",
-  "size": "Saiz",
-  "house": "Banglo",
-  "coffee": "Coffee aaaa",
-  "cat": "Kucing"
-}
+{"size":"Saiz","car":"Kereta","shape":"Segi Tiga","cat":"Kucing","house":"Banglo","cow":"Lembu","money":"Duit","coffee":"Coffee aaaa","price":"Harga","shirt":"Baju"}
