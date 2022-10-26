@@ -1,12 +1,1 @@
-{
-  "car": "Kereta",
-  "shirt": "Baju",
-  "shape": "Segi Tiga",
-  "cow": "Lembu",
-  "price": "Harga",
-  "coffee": "Kopi",
-  "money": "Duit",
-  "cat": "Kucing",
-  "size": "Saiz",
-  "house": "Banglo"
-}
+{"price":"Beli","size":"test","shape":"Bentuk","house":"Rumah","money":"Duwit","car":"BRV","cow":"Bebiri","cat":"Kucing","shirt":"Baju","coffee":"Kopi","website":{"title":"Tajuk Saya","description":"Deskripsi Saya","button":"Butang Saya"},"state":{"district":{"city":"bandar"}},"country":{"state":{"district":{"town":"kota"}}},"":""}
