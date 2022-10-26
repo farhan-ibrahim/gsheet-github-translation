@@ -1,15 +1,12 @@
 {
-  "keys": "en",
-  "product": "Product",
-  "price": "Price",
-  "size": "Size",
-  "shape": "Shape ",
   "money": "Money",
-  "car": "Car",
-  "cow": "Cow",
-  "building": "Building",
-  "cat": "Cat",
-  "shirt": "Shirt",
+  "size": "Size",
   "coffee": "Coffee",
-  "": ""
+  "shape": "Shape ",
+  "shirt": "Shirt",
+  "cat": "Cat",
+  "price": "Hello",
+  "house": "House",
+  "car": "Car",
+  "cow": "Cow"
 }
