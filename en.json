@@ -1,1 +1,20 @@
-{"price":"Price","size":"Size","shape":"Shape ","house":"House","money":"Money","car":"Car","cow":"Cow","cat":"Cat","shirt":"Shirt","coffee":"Coffee","website":{"title":"My Title","description":"My Description","button":"My Button"},"state":{"district":{"city":"Cities"}},"country":{"state":{"district":{"town":"town"}}},"":""}
+{
+  "price": "Price",
+  "size": "Size",
+  "shape": "Shape ",
+  "house": "House",
+  "money": "Money",
+  "car": "Car",
+  "cow": "Cow",
+  "cat": "Cat",
+  "shirt": "Shirt",
+  "coffee": "Coffee",
+  "website": {
+    "title": "My Title",
+    "description": "My Description",
+    "button": "My Button"
+  },
+  "state": { "district": { "city": "Cities" } },
+  "country": { "state": { "district": { "town": "town" } } },
+  "": ""
+}

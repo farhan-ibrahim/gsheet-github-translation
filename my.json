@@ -1,1 +1,20 @@
-{"price":"Beli","size":"test","shape":"Bentuk","house":"Rumah","money":"Duwit","car":"BRV","cow":"Bebiri","cat":"Kucing","shirt":"Baju","coffee":"Kopi","website":{"title":"Tajuk Saya","description":"Deskripsi Saya","button":"Butang Saya"},"state":{"district":{"city":"bandar"}},"country":{"state":{"district":{"town":"kota"}}},"":""}
+{
+  "price": "Beli",
+  "size": "test",
+  "shape": "Bentuk",
+  "house": "Rumah",
+  "money": "Duwit",
+  "car": "BRV",
+  "cow": "Bebiri",
+  "cat": "Kucing",
+  "shirt": "Baju",
+  "coffee": "Kopi",
+  "website": {
+    "title": "Tajuk Saya",
+    "description": "Deskripsi Saya",
+    "button": "Butang Saya"
+  },
+  "state": { "district": { "city": "bandar" } },
+  "country": { "state": { "district": { "town": "kota" } } },
+  "": ""
+}
